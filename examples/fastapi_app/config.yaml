@@ -1,0 +1,5 @@
+broker: redis
+channel: domain_events
+host: localhost
+max_workers: 10
+port: 6379
